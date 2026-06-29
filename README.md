@@ -16,4 +16,6 @@ The Fullstack Developer Path aims to teach you everything you need to become a J
 - [The Frontend Career Path](https://scrimba.com/fullstack-path-c0fullstack)
 - [Become a Scrimba Pro member](https://scrimba.com/pricing)
 
+Check out the webpage using this link https://extraordinary-sable-e2fac2.netlify.app
+
 Happy Coding!
