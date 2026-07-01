@@ -5,7 +5,7 @@ A simple and interactive basketball scoreboard built with **HTML**, **CSS**, and
 ---
 
 ## 📸 Preview
-![Basketball Scoreboard](screenshot.png)
+![Basketball Scoreboard](Screenshot.png)
 
 
 ---
